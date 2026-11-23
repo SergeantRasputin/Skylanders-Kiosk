@@ -1,0 +1,41 @@
+<Window x:Class="Com.Skylanders.Kiosk.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Kiosk"
+        Background="Black"
+        Width="1920" Height="1080"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen"
+        KeyUp="Window_KeyUp"
+        Closing="Window_Closing"
+        Loaded="Window_Loaded">
+
+    <Grid>
+        <MediaElement x:Name="mediaView"
+                      Stretch="Fill"
+                      LoadedBehavior="Manual"
+                      UnloadedBehavior="Manual"
+                      ScrubbingEnabled="True"
+                      MediaOpened="MediaView_MediaOpened"
+                      MediaEnded="MediaView_MediaEnded"
+                      MediaFailed="MediaView_MediaFailed" />
+
+        <Grid x:Name="groupDisplayName">
+            <Rectangle Width="500" Height="400"
+                       Fill="Gray" Opacity="0.4"
+                       VerticalAlignment="Top" HorizontalAlignment="Center"
+                       Margin="0,30,0,0" />
+
+            <StackPanel x:Name="namesStack"
+                        VerticalAlignment="Top" HorizontalAlignment="Center"
+                        Margin="0,50,0,0">
+                <TextBlock x:Name="header"
+                           Text="Skylanders On Portal"
+                           Foreground="Orange"
+                           TextAlignment="Center"
+                           FontFamily="Verdana" FontWeight="Bold" FontSize="25"
+                           Margin="0,0,0,10" />
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

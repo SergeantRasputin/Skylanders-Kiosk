@@ -1,0 +1,685 @@
+//Category,Skylander,CharacterID,VariantID
+Spyro's Adventure,Whirlwind,0,0
+Spyro's Adventure,Whirlwind (Series 2),0,6145
+Spyro's Adventure,Polar Whirlwind,0,7170
+Spyro's Adventure,Whirlwind (Stone),0,6162
+Spyro's Adventure,Horn Blast Whirlwind,0,10245
+Spyro's Adventure,Whirlwind (Eon's Elite),0,14352
+Spyro's Adventure,Sonic Boom,1,0
+Spyro's Adventure,Sonic Boom (Series 2),1,6145
+Spyro's Adventure,Sonic Boom (Glow in the Dark),1,6161
+Spyro's Adventure,Sonic Boom (Sparkle/Glitter),1,6163
+Spyro's Adventure,Warnado,2,0
+Spyro's Adventure,Warnado (LightCore),2,8710
+Spyro's Adventure,Lightning Rod,3,0
+Spyro's Adventure,Lightning Rod (Series 2),3,6145
+Spyro's Adventure,Lightning Rod (Iridescent),3,6164
+Spyro's Adventure,Bash,4,0
+Spyro's Adventure,Bash (Series 2),4,6145
+Spyro's Adventure,Terrafin,5,0
+Spyro's Adventure,Terrafin (Series 2),5,6145
+Spyro's Adventure,Knockout Terrafin,5,10245
+Spyro's Adventure,Terrafin (Eon's Elite),5,14352
+Spyro's Adventure,Dino-Rang,6,0
+Spyro's Adventure,Dino-Rang (Eon's Elite),6,18448
+Spyro's Adventure,Prism Break,7,0
+Spyro's Adventure,Prism Break (LightCore),7,4614
+Spyro's Adventure,Prism Break (LightCore Rare),7,4628
+Spyro's Adventure,Prism Break (Series 2),7,6145
+Spyro's Adventure,Hyper Beam Prism Break,7,10245
+Spyro's Adventure,Sunburn,8,0
+Spyro's Adventure,Eruptor,9,0
+Spyro's Adventure,Eruptor (LightCore),9,4614
+Spyro's Adventure,Eruptor (Series 2),9,6145
+Spyro's Adventure,Eruptor (White Flocked),9,6164
+Spyro's Adventure,Lava Barf Eruptor,9,10245
+Spyro's Adventure,Volcanic Eruptor,9,11266
+Spyro's Adventure,Eruptor (UNRELEASED Macy Day?),9,14340
+Spyro's Adventure,Eruptor (Eon's Elite),9,14352
+Spyro's Adventure,Ignitor,10,0
+Spyro's Adventure,Ignitor (Series 2),10,6145
+Spyro's Adventure,Legendary Ignitor,10,7171
+Spyro's Adventure,Flameslinger,11,0
+Spyro's Adventure,Flameslinger (Series 2),11,6145
+Spyro's Adventure,Flameslinger (Golden/Bronze),11,6146
+Spyro's Adventure,Zap,12,0
+Spyro's Adventure,Zap (Series 2),12,6145
+Spyro's Adventure,Wham-Shell,13,0
+Spyro's Adventure,Wham-Shell (LightCore),13,8710
+Spyro's Adventure,Gill Grunt,14,0
+Spyro's Adventure,Gill Grunt (Series 2),14,6145
+Spyro's Adventure,Gill Grunt (Metallic),14,6167
+Spyro's Adventure,Anchors Away Gill Grunt,14,10245
+Spyro's Adventure,Tidal Wave Gill Grunt,14,14341
+Spyro's Adventure,Gill Grunt (Eon's Elite),14,14352
+Spyro's Adventure,Slam Bam,15,0
+Spyro's Adventure,Slam Bam (Series 2),15,6145
+Spyro's Adventure,Legendary Slam Bam,15,7171
+Spyro's Adventure,Slam Bam (Eon's Elite),15,18448
+Spyro's Adventure,Spyro,16,0
+Spyro's Adventure,Spyro (Series 2),16,6145
+Spyro's Adventure,Mega Ram Spyro,16,10245
+Spyro's Adventure,Dark Mega Ram Spyro,16,11266
+Spyro's Adventure,Spyro (Eon's Elite),16,14352
+Spyro's Adventure,Voodood,17,0
+Spyro's Adventure,Voodood (Eon's Elite),17,18448
+Spyro's Adventure,Double Trouble,18,0
+Spyro's Adventure,Double Trouble (Series 2),18,6145
+Spyro's Adventure,Royal Double Trouble,18,7170
+Spyro's Adventure,Trigger Happy,19,0
+Spyro's Adventure,Trigger Happy (Series 2),19,6145
+Spyro's Adventure,Big Bang Trigger Happy,19,10245
+Spyro's Adventure,Springtime Trigger Happy,19,11266
+Spyro's Adventure,Trigger Happy (Eon's Elite),19,14352
+Spyro's Adventure,Drobot,20,0
+Spyro's Adventure,Drobot (LightCore),20,4614
+Spyro's Adventure,Drobot (Series 2),20,6145
+Spyro's Adventure,Drill Sergeant,21,0
+Spyro's Adventure,Drill Sergeant (Series 2),21,6145
+Spyro's Adventure,Boomer,22,0
+Spyro's Adventure,Boomer (Eon's Elite),22,18448
+Spyro's Adventure,Wrecking Ball,23,0
+Spyro's Adventure,Wrecking Ball (Series 2),23,6145
+Spyro's Adventure,Wrecking Ball (Iridescent),23,6164
+Spyro's Adventure,Camo,24,0
+Spyro's Adventure,Thorn Horn Camo,24,10245
+Spyro's Adventure,Zook,25,0
+Spyro's Adventure,Zook (Series 2),25,6145
+Spyro's Adventure,Zook (Stone),25,6162
+Spyro's Adventure,Zook (Eon's Elite),25,18448
+Spyro's Adventure,Stealth Elf,26,0
+Spyro's Adventure,Stealth Elf (Series 2),26,6145
+Spyro's Adventure,Legendary Stealth Elf,26,7171
+Spyro's Adventure,Ninja Stealth Elf,26,10245
+Spyro's Adventure,Dark Ninja Stealth Elf,26,11266
+Spyro's Adventure,Stealth Elf (Eon's Elite),26,14352
+Spyro's Adventure,Stump Smash,27,0
+Spyro's Adventure,Stump Smash (Series 2),27,6145
+Spyro's Adventure,Stump Smash (White Flocked),27,6164
+Spyro's Adventure,Dark Spyro,28,0
+Spyro's Adventure,Hex,29,0
+Spyro's Adventure,Hex (LightCore),29,4614
+Spyro's Adventure,Hex (Series 2),29,6145
+Spyro's Adventure,Chop Chop,30,0
+Spyro's Adventure,Chop Chop (Series 2),30,6145
+Spyro's Adventure,Chop Chop (Metallic Blue),30,6148
+Spyro's Adventure,Twin Blade Chop Chop,30,10245
+Spyro's Adventure,Chop Chop (Green),30,10262
+Spyro's Adventure,Chop Chop (Eon's Elite),30,14352
+Spyro's Adventure,Ghost Roaster,31,0
+Spyro's Adventure,Ghost Roaster (Eon's Elite),31,18448
+Spyro's Adventure,Cynder,32,0
+Spyro's Adventure,Cynder (Series 2),32,6145
+Spyro's Adventure,Cynder (Glow in the Dark),32,6161
+Spyro's Adventure,Phantom Cynder,32,10245
+Spyro's Adventure,Cynder (UNRELEASED Series 4),32,14345
+Spyro's Adventure,Cynder (UNRELEASED Eon's Elite),32,14352
+Spyro's Adventure,DEBUG Minion,999,0
+Giants,Jet-Vac,100,4096
+Giants,Jet-Vac (LightCore),100,4614
+Giants,Legendary Jet-Vac,100,5123
+Giants,Turbo Jet-Vac,100,10245
+Giants,Full Blast Jet-Vac,100,14341
+Giants,Swarm,101,4614
+Giants,Crusher,102,4614
+Giants,Granite Crusher,102,5634
+Giants,Flashwing,103,4096
+Giants,Jade Flashwing,103,5122
+Giants,Flashwing (LightCore),103,8710
+Giants,Flashwing (UNRELEASED Series 2),103,14337
+Giants,Hot Head,104,4614
+Giants,Hot Head (Sparkle/Glitter),104,4627
+Giants,Hot Dog,105,4096
+Giants,Hot Dog (Color Shift),105,4117
+Giants,Molten Hot Dog,105,5122
+Giants,Fire Bone Hot Dog,105,10245
+Giants,Hot Dog (Red Frito-Lay),105,10266
+Giants,Hot Dog (Green Frito-Lay),105,10267
+Giants,Hot Dog (Purple Frito-Lay),105,10268
+Giants,Chill,106,4096
+Giants,Chill (LightCore),106,4614
+Giants,Legendary Chill (LightCore),106,5635
+Giants,Blizzard Chill,106,10245
+Giants,Thumpback,107,4614
+Giants,Pop Fizz,108,4096
+Giants,Punch Pop Fizz,108,5122
+Giants,Super Gulp Pop Fizz,108,10245
+Giants,Fizzy Frenzy Pop Fizz,108,14341
+Giants,Love Potion Pop Fizz,108,15362
+Giants,Ninjini,109,4614
+Giants,Scarlet Ninjini,109,5634
+Giants,Bouncer,110,4614
+Giants,Legendary Bouncer,110,5635
+Giants,Sprocket,111,4096
+Giants,Sprocket (Sparkle/Glitter),111,4115
+Giants,Heavy Duty Sprocket,111,10245
+Giants,Sprocket (Heavy Metal),111,10265
+Giants,Tree Rex,112,4614
+Giants,Gnarly Tree Rex,112,5634
+Giants,Shroomboom,113,4096
+Giants,Shroomboom (Metallic),113,4119
+Giants,Shroomboom (LightCore),113,4614
+Giants,Sure Shot Shroomboom,113,14341
+Giants,Eye-Brawl,114,4614
+Giants,Eye-Brawl (Iridescent),114,4628
+Giants,Eye-Brawl (Pumpkin),114,4629
+Giants,Fright Rider,115,4096
+Giants,Fright Rider (Glow in the Dark),115,4113
+Giants,Fright Rider (Halloween),115,4117
+Traps,Anvil Rain,200,0
+Traps,Hidden Treasure,201,0
+Traps,Platinum Hidden Treasure (UNRELEASED),201,4096
+Traps,Healing Elixir,202,0
+Traps,Ghost Pirate Swords,203,0
+Traps,Time Twister Hourglass,204,0
+Traps,Sky-Iron Shield,205,0
+Traps,Winged Boots,206,0
+Traps,Sparx the Dragonfly,207,0
+Traps,Dragonfire Cannon,208,4614
+Traps,Golden Dragonfire Cannon,208,5634
+Traps,Scorpion Striker Catapult,209,4614
+Traps,Biter's Bane (Magic Log Holder),210,12290
+Traps,Sorcerous Skull (Magic Skull),210,12296
+Traps,Axe of Illusion (Magic Axe),210,12299
+Traps,Arcane Hourglass (Magic Hourglass),210,12302
+Traps,Spell Slapper (Magic Totem),210,12306
+Traps,Rune Rocket (Magic Rocket),210,12309
+Traps,Tidal Tiki (Water Tiki),211,12289
+Traps,Wet Walter (Water Log Holder),211,12290
+Traps,Flood Flask (Water Jughead),211,12294
+Traps,Legendary Flood Flask (Water Jughead),211,13318
+Traps,Soaking Staff (Water Angel),211,12295
+Traps,Aqua Axe (Water Axe),211,12299
+Traps,Frost Helm (Water Flying Helmet),211,12310
+Traps,Breezy Bird (Air Toucan),212,12291
+Traps,Drafty Decanter (Air Jughead),212,12294
+Traps,Tempest Timer (Air Hourglass),212,12302
+Traps,Cloudy Cobra (Air Snake),212,12304
+Traps,Storm Warning (Air Screamer),212,12305
+Traps,Cyclone Sabre (Air Sword),212,12312
+Traps,Spirit Sphere (Undead Orb),213,12292
+Traps,Legendary Spirit Sphere (Undead Orb),213,13316
+Traps,Spectral Skull (Undead Skull),213,12296
+Traps,Legendary Spectral Skull (Undead Skull),213,13320
+Traps,Haunted Hatchet (Undead Axe),213,12299
+Traps,Grim Gripper (Undead Hand),213,12300
+Traps,Spooky Snake (Undead Snake),213,12304
+Traps,Dream Piercer (Undead Captain's Hat),213,12311
+Traps,Tech Totem (Tech Tiki),214,12289
+Traps,Automatic Angel (Tech Angel),214,12295
+Traps,Factory Flower (Tech Scepter),214,12297
+Traps,Grabbing Gadget (Tech Hand),214,12300
+Traps,Makers Mana (Tech Flying Helmet),214,12310
+Traps,Topsy Techy (Tech Handstand),214,12314
+Traps,Eternal Flame (Fire Torch),215,12293
+Traps,Fire Flower (Fire Scepter),215,12297
+Traps,Scorching Stopper (Fire Screamer),215,12305
+Traps,Searing Spinner (Fire Totem),215,12306
+Traps,Spark Speak (Fire Captain's Hat),215,12311
+Traps,Blazing Belch (Fire Yawn),215,12315
+Traps,Rock Hawk (Earth Toucan),216,12291
+Traps,Banded Boulder (Earth Orb),216,12292
+Traps,Slag Hammer (Earth Hammer),216,12298
+Traps,Dust of Time (Earth Hourglass),216,12302
+Traps,Spinning Sandstorm (Earth Totem),216,12306
+Traps,Rubble Trouble (Earth Handstand),216,12314
+Traps,Oak Eagle (Life Toucan),217,12291
+Traps,Emerald Energy (Life Torch),217,12293
+Traps,Weed Whacker (Life Hammer),217,12298
+Traps,Seed Serpent (Life Snake),217,12304
+Traps,Jade Blade (Life Sword),217,12312
+Traps,Shrub Shrieker (Life Yawn),217,12315
+Traps,Shadow Spider (Dark Spider),218,12308
+Traps,Dark Dagger (Dark Sword),218,12312
+Traps,Ghastly Grimace (Dark Handstand),218,12314
+Traps,Heavenly Hawk (Light Hawk),219,12303
+Traps,Shining Ship (Light Rocket),219,12309
+Traps,Beam Scream (Light Yawn),219,12315
+Traps,The Kaos Trap,220,12318
+Traps,Ultimate Kaos Trap*,220,13599
+Traps,Ultimate Kaos Trap (Fixed),220,13343
+Traps,Hand of Fate,230,12288
+Traps,Legendary Hand of Fate,230,13315
+Traps,Piggy Bank,231,12288
+Traps,Rocket Ram,232,12288
+Traps,Tiki Speaky,233,12288
+Traps,Mystery Chest (Bronze),235,20481
+Traps,Mystery Chest (Silver),235,20482
+Traps,Mystery Chest (Gold),235,20483
+Traps,Mystery Chest (Cursed Tiki Temple),235,20503
+Traps,Mystery Chest (Lost Imaginite Mines),235,20505
+Toys For Bob Expansions,Dragon's Peak,300,0
+Toys For Bob Expansions,Empire of Ice,301,0
+Toys For Bob Expansions,Pirate Seas,302,0
+Toys For Bob Expansions,Darklight Crypt,303,0
+Toys For Bob Expansions,Volcanic Vault,304,0
+Toys For Bob Expansions,Mirror of Mystery,305,12288
+Toys For Bob Expansions,Nightmare Express,306,12288
+Toys For Bob Expansions,Sunscraper Spire,307,12806
+Toys For Bob Expansions,Midnight Museum (non-LightCore),308,12288
+Toys For Bob Expansions,Midnight Museum,308,12806
+Toys For Bob Expansions,Gryphon Park Observatory,310,20480
+Toys For Bob Expansions,Enchanted Elven Forest,311,20480
+SSA Legendaries,Legendary Bash,404,0
+SSA Legendaries,Legendary Spyro,416,0
+SSA Legendaries,Legendary Trigger Happy,419,0
+SSA Legendaries,Legendary Chop Chop,430,0
+Trap Team,Gusto,450,12288
+Trap Team,Thunderbolt,451,12288
+Trap Team,Thunderbolt (Clear),451,12317
+Trap Team,Fling Kong,452,12288
+Trap Team,Blades,453,12288
+Trap Team,Legendary Blades,453,13315
+Trap Team,Wallop,454,12288
+Trap Team,Head Rush,455,12288
+Trap Team,Nitro Head Rush,455,13314
+Trap Team,Fist Bump,456,12288
+Trap Team,Rocky Roll,457,12288
+Trap Team,Wildfire,458,12288
+Trap Team,Dark Wildfire,458,13314
+Trap Team,Ka-Boom,459,12288
+Trap Team,Trail Blazer,460,12288
+Trap Team,Torch,461,12288
+Trap Team,Snap Shot,462,12288
+Trap Team,Snap Shot (UNRELEASED Event),462,12292
+Trap Team,Dark Snap Shot,462,13314
+Trap Team,Instant Snap Shot,462,13327
+Trap Team,Lob-Star,463,12288
+Trap Team,Winterfest Lob-Star,463,13314
+Trap Team,Flip Wreck,464,12288
+Trap Team,Echo,465,12288
+Trap Team,Blastermind,466,12288
+Trap Team,Enigma,467,12288
+Trap Team,Déjà Vu,468,12288
+Trap Team,Legendary Déjà Vu,468,13315
+Trap Team,Cobra Cadabra,469,12288
+Trap Team,King Cobra Cadabra,469,13314
+Trap Team,Jawbreaker,470,12288
+Trap Team,Legendary Jawbreaker,470,13315
+Trap Team,Gearshift,471,12288
+Trap Team,Chopper,472,12288
+Trap Team,Tread Head,473,12288
+Trap Team,Bushwhack,474,12288
+Trap Team,Legendary Bushwhack,474,13315
+Trap Team,Tuff Luck,475,12288
+Trap Team,Tuff Luck (Clear),475,12317
+Trap Team,Food Fight,476,12288
+Trap Team,Dark Food Fight,476,13314
+Trap Team,Instant Food Fight,476,13327
+Trap Team,High Five,477,12288
+Trap Team,Krypt King,478,12288
+Trap Team,Nitro Krypt King,478,13314
+Trap Team,Short Cut,479,12288
+Trap Team,Short Cut (Clear),479,12317
+Trap Team,Bat Spin,480,12288
+Trap Team,Funny Bone,481,12288
+Trap Team,Knight Light,482,12288
+Trap Team,Spotlight,483,12288
+Trap Team,Knight Mare,484,12288
+Trap Team,Blackout,485,12288
+Minis/Sidekicks,Bop,502,12288
+Minis/Sidekicks,Spry,503,12288
+Minis/Sidekicks,Hijinx,504,12288
+Minis/Sidekicks,Terrabite (Sidekick),505,0
+Minis/Sidekicks,Terrabite (Mini),505,12288
+Minis/Sidekicks,Breeze,506,12288
+Minis/Sidekicks,Weeruptor,507,12288
+Minis/Sidekicks,Eggsellent Weeruptor,507,13314
+Minis/Sidekicks,Pet-Vac,508,12288
+Minis/Sidekicks,Power Punch Pet-Vac,508,13314
+Minis/Sidekicks,Small Fry,509,12288
+Minis/Sidekicks,Drobit,510,12288
+Minis/Sidekicks,Gill Runt (Sidekick),511,0
+Minis/Sidekicks,Gill Runt (Mini),511,12288
+Minis/Sidekicks,Trigger Snappy (Sidekick),519,0
+Minis/Sidekicks,Trigger Snappy (Mini),519,12288
+Minis/Sidekicks,Whisper Elf (Sidekick),526,0
+Minis/Sidekicks,Whisper Elf (Mini),526,12288
+Minis/Sidekicks,Barkley (Sidekick),540,4096
+Minis/Sidekicks,Barkley (Mini),540,12288
+Minis/Sidekicks,Gnarly Barkley,540,13314
+Minis/Sidekicks,Thumpling (Sidekick),541,4096
+Minis/Sidekicks,Thumpling (Mini),541,12288
+Minis/Sidekicks,Mini-Jini (Sidekick),542,4096
+Minis/Sidekicks,Mini-Jini (Mini),542,12288
+Minis/Sidekicks,Eye-Small (Sidekick),543,4096
+Minis/Sidekicks,Eye-Small (Mini),543,12288
+Imaginators,King Pen,601,20480
+Imaginators,Dark King Pen,601,21506
+Imaginators,Tri-Tip,602,20480
+Imaginators,Legendary Tri-Tip,602,21507
+Imaginators,Chopscotch,603,20480
+Imaginators,Candy-Coated Chopscotch,603,21525
+Imaginators,Boom Bloom,604,20480
+Imaginators,Pit Boss,605,20480
+Imaginators,Legendary Pit Boss,605,21507
+Imaginators,Barbella,606,20480
+Imaginators,Barbella (Pink),606,20513
+Imaginators,Air Strike,607,20480
+Imaginators,Egg Bomber Air Strike,607,21517
+Imaginators,Ember,608,20480
+Imaginators,Dec-Ember (???),608,20484
+Imaginators,Ambush,609,20480
+Imaginators,Dr. Krankcase,610,20480
+Imaginators,Hood Sickle,611,20480
+Imaginators,Steel Plated Hood Sickle,611,21506
+Imaginators,Taw Kwon Crow,612,20480
+Imaginators,Mystical Tae Kwon Crow,612,21506
+Imaginators,Golden Queen,613,20480
+Imaginators,Dark Golden Queen,613,21506
+Imaginators,Wolfgang,614,20480
+Imaginators,Dark Wolfgang,614,21506
+Imaginators,Pain-Yatta,615,20480
+Imaginators,Pain-Yatta (Rock Candy),615,20513
+Imaginators,Mysticat,616,20480
+Imaginators,Starcast,617,20480
+Imaginators,Starcast (Clear/Happy Birthday Ben?),617,20513
+Imaginators,Buckshot,618,20480
+Imaginators,Heartbreaker Buckshot (UNRELEASED),618,21516
+Imaginators,Aurora,619,20480
+Imaginators,Solar Flare Aurora,619,21506
+Imaginators,Flare Wolf,620,20480
+Imaginators,Hard-Boiled Flare Wolf,620,21517
+Imaginators,Chompy Mage,621,20480
+Imaginators,Jingle Bell Chompy Mage,621,21518
+Imaginators,Bad Juju,622,20480
+Imaginators,Mystical Bad Juju,622,21506
+Imaginators,Grave Clobber,623,20480
+Imaginators,Blaster-Tron,624,20480
+Imaginators,Ro-Bow,625,20480
+Imaginators,Chain Reaction,626,20480
+Imaginators,Chain Reaction (Orange?),626,20513
+Imaginators,Kaos,627,20480
+Imaginators,Wild Storm,628,20480
+Imaginators,Tidepool,629,20480
+Imaginators,Crash Bandicoot,630,20480
+Imaginators,Dr. Neo Cortex,631,20480
+Imaginators,Create Your Own Skylander (Card),661,20481
+Imaginators,Create Your Own Skylander (Foil Card),661,20482
+Imaginators,Create Your Own Skylander (Special Card),661,20483
+Imaginators,Create Your Own Skylander (3D Print),661,20484
+Imaginators,Create Your Own Skylander (Medium 3D Print),661,20485
+Imaginators,Create Your Own Skylander (Large 3D Print),661,20486
+Imaginators,Create Your Own Skylander (Unique 3D Print),661,20487
+Imaginators,Magic Creation Crystal (Pyramid),680,20996
+Imaginators,Magic Creation Crystal (Lantern),680,21000
+Imaginators,Magic Creation Crystal (Legendary Lantern),680,22024
+Imaginators,Magic Creation Crystal (Claw),680,21019
+Imaginators,Water Creation Crystal (Armor),681,21012
+Imaginators,Water Creation Crystal (Fanged),681,21016
+Imaginators,Water Creation Crystal (Rocket),681,21020
+Imaginators,Air Creation Crystal (Angel),682,20994
+Imaginators,Air Creation Crystal (Lantern),682,20999
+Imaginators,Air Creation Crystal (UNRELEASED Acorn),682,21010
+Imaginators,Undead Creation Crystal (Lantern),683,21001
+Imaginators,Undead Creation Crystal (Fanged),683,21015
+Imaginators,Undead Creation Crystal (Claw),683,21017
+Imaginators,Tech Creation Crystal (UNRELEASED Pyramid),684,20997
+Imaginators,Tech Creation Crystal (Reactor),684,21005
+Imaginators,Tech Creation Crystal (Armor),684,21013
+Imaginators,Fire Creation Crystal (UNRELEASED Angel),685,20993
+Imaginators,Fire Creation Crystal (Reactor),685,21007
+Imaginators,Fire Creation Crystal (Acorn),685,21009
+Imaginators,Earth Creation Crystal (UNRELEASED Rune),686,21004
+Imaginators,Earth Creation Crystal (Armor),686,21011
+Imaginators,Earth Creation Crystal (Rocket),686,21021
+Imaginators,Life Creation Crystal (Acorn),687,21008
+Imaginators,Life Creation Crystal (Legendary Acorn),687,22032
+Imaginators,Life Creation Crystal (Claw),687,21018
+Imaginators,Life Creation Crystal (Rocket),687,21022
+Imaginators,Life Creation Crystal (Rune),687,21023
+Imaginators,Dark Creation Crystal (Pyramid),688,20998
+Imaginators,Dark Creation Crystal (Rune),688,21002
+Imaginators,Dark Creation Crystal (Reactor),688,21006
+Imaginators,Light Creation Crystal (UNRELEASED Angel),689,20995
+Imaginators,Light Creation Crystal (Rune),689,21003
+Imaginators,Light Creation Crystal (Fanged),689,21014
+Imaginators,Light Creation Crystal (Legendary Fanged),689,22038
+Imaginators,Goldie,699,20480
+SWAP Force,Jet,1000,8192
+SWAP Force,Ranger,1001,8192
+SWAP Force,Legendary Ranger,1001,9219
+SWAP Force,Rouser,1002,8192
+SWAP Force,Stone,1003,8192
+SWAP Force,Stone (Bronze?),1003,8214
+SWAP Force,Zone,1004,8192
+SWAP Force,Dark Zone,1004,9218
+SWAP Force,Kraken,1005,8192
+SWAP Force,Kraken (Gold),1005,8196
+SWAP Force,Jade Kraken,1005,9218
+SWAP Force,Bomb,1006,8192
+SWAP Force,Bomb (Gold?),1006,8214
+SWAP Force,Drilla,1007,8192
+SWAP Force,Loop,1008,8192
+SWAP Force,Enchanted Loop,1008,9218
+SWAP Force,Shadow,1009,8192
+SWAP Force,Shadow (Silver?),1009,8214
+SWAP Force,Charge,1010,8192
+SWAP Force,Nitro Charge,1010,9218
+SWAP Force,Rise,1011,8192
+SWAP Force,Shift,1012,8192
+SWAP Force,Legendary Shift,1012,9219
+SWAP Force,Shake,1013,8192
+SWAP Force,Quickdraw Shake,1013,9218
+SWAP Force,Blade,1014,8192
+SWAP Force,Nitro Blade,1014,9218
+SWAP Force,Buckler,1015,8192
+SWAP Force,Buckler (Color Shift),1015,8216
+SWAP Force,Dark Buckler,1015,9218
+SWAP Force,Template (Bottom),1999,8192
+SWAP Force,Boom,2000,8192
+SWAP Force,Free,2001,8192
+SWAP Force,Legendary Free,2001,9219
+SWAP Force,Rubble,2002,8192
+SWAP Force,Doom,2003,8192
+SWAP Force,Doom (Gold?),2003,8214
+SWAP Force,Blast,2004,8192
+SWAP Force,Dark Blast,2004,9218
+SWAP Force,Fire,2005,8192
+SWAP Force,Fire (Gold),2005,8196
+SWAP Force,Jade Fire,2005,9218
+SWAP Force,Stink,2006,8192
+SWAP Force,Stink (Silver),2006,8214
+SWAP Force,Grilla,2007,8192
+SWAP Force,Hoot,2008,8192
+SWAP Force,Enchanted Hoot,2008,9218
+SWAP Force,Trap,2009,8192
+SWAP Force,Trap (Bronze?),2009,8214
+SWAP Force,Magna,2010,8192
+SWAP Force,Nitro Magna,2010,9218
+SWAP Force,Spy,2011,8192
+SWAP Force,Night,2012,8192
+SWAP Force,Legendary Night,2012,9219
+SWAP Force,Rattle,2013,8192
+SWAP Force,Quickdraw Rattle,2013,9218
+SWAP Force,Freeze,2014,8192
+SWAP Force,Nitro Freeze,2014,9218
+SWAP Force,Wash,2015,8192
+SWAP Force,Wash (Color Shift),2015,8216
+SWAP Force,Dark Wash,2015,9218
+SWAP Force,Template (Top),2999,8192
+SWAP Force,Scratch,3000,8192
+SWAP Force,Pop Thorn,3001,8192
+SWAP Force,Slobber Tooth,3002,8192
+SWAP Force,Dark Slobber Tooth,3002,9218
+SWAP Force,Scorp,3003,8192
+SWAP Force,Scorp (Green),3003,8214
+SWAP Force,Fryno,3004,8192
+SWAP Force,Hog Wild Fryno,3004,14341
+SWAP Force,Smolderdash,3005,8192
+SWAP Force,Smolderdash (LightCore),3005,8710
+SWAP Force,Snowderdash (???),3005,8729
+SWAP Force,Bumble Blast,3006,8192
+SWAP Force,Bumble Blast (LightCore),3006,8710
+SWAP Force,Jolly Bumble Blast,3006,9218
+SWAP Force,Zoo Lou,3007,8192
+SWAP Force,Legendary Zoo Lou,3007,9219
+SWAP Force,Dune Bug,3008,8192
+SWAP Force,Dune Bug (Red),3008,8196
+SWAP Force,Star Strike,3009,8192
+SWAP Force,Star Strike (LightCore),3009,8710
+SWAP Force,Enchanted Star Strike,3009,9730
+SWAP Force,Countdown,3010,8192
+SWAP Force,Countdown (LightCore),3010,8710
+SWAP Force,Kickoff Countdown,3010,9218
+SWAP Force,Wind-Up,3011,8192
+SWAP Force,VVind-Up (Gear Head),3011,9220
+SWAP Force,Roller Brawl,3012,8192
+SWAP Force,Grim Creeper,3013,8192
+SWAP Force,Grim Creeper (LightCore),3013,8710
+SWAP Force,Legendary Grim Creeper,3013,9731
+SWAP Force,Rip Tide,3014,8192
+SWAP Force,Rip Tide (Green),3014,8214
+SWAP Force,Punk Shock,3015,8192
+SWAP Force,Template Legacy,3999,8192
+Vehicles,Battle Hammer,3200,8192
+Vehicles,Sky Diamond,3201,8192
+Vehicles,Platinum Sheep,3202,8192
+Vehicles,Groove Machine,3203,8192
+Vehicles,UFO Hat,3204,8192
+Vehicles,Jet Stream,3220,16384
+Vehicles,Tomb Buggy,3221,16384
+Vehicles,Tomb Buggy (Dark Bronze),3221,16414
+Vehicles,Reef Ripper,3222,16384
+Vehicles,Burn-Cycle,3223,16384
+Vehicles,Burn-Cycle (Patina),3223,16414
+Vehicles,Hot Streak,3224,16384
+Vehicles,Hot Streak (Exclusive Event Edition),3224,16388
+Vehicles,Hot Streak (Mobile Starter Pack),3224,16415
+Vehicles,Dark Hot Streak,3224,17410
+Vehicles,Instant Hot Streak,3224,17423
+Vehicles,Golden Hot Streak,3224,17438
+Vehicles,Shark Tank,3225,16384
+Vehicles,Thump Truck,3226,16384
+Vehicles,Crypt Crusher,3227,16384
+Vehicles,Stealth Stinger,3228,16384
+Vehicles,Nitro Stealth Stinger,3228,17410
+Vehicles,Instant Stealth Stinger,3228,17423
+Vehicles,Dive Bomber,3231,16384
+Vehicles,Spring Ahead Dive Bomber,3231,17410
+Vehicles,Instant Dive Bomber,3231,17423
+Vehicles,Sky Slicer,3232,16384
+Vehicles,Instant Sky Slicer (Imaginators),3232,17423
+Vehicles,Clown Crusier,3233,16384
+Vehicles,Dark Clown Crusier,3233,17410
+Vehicles,Gold Rusher,3234,16384
+Vehicles,Power Blue Gold Rusher,3234,17410
+Vehicles,Shield Striker,3235,16384
+Vehicles,Shield Striker (Patina),3235,16414
+Vehicles,Sun Runner,3236,16384
+Vehicles,Legendary Sun Runner,3236,17311
+Vehicles,Sea Shadow,3237,16384
+Vehicles,Dark Sea Shadow,3237,17410
+Vehicles,Instant Sea Shadow (Imaginators),3237,17423
+Vehicles,Splatter Splasher,3238,16384
+Vehicles,Power Blue Splatter Splasher,3238,17410
+Vehicles,Soda Skimmer,3239,16384
+Vehicles,Nitro Soda Skimmer,3239,17410
+Vehicles,Barrel Blaster,3240,16384
+Vehicles,Dark Barrel Blaster,3240,17410
+Vehicles,Buzz Wing,3241,16384
+SWAP Force Expansions/Battle Pieces,Sheep Wreck Island,3300,8192
+SWAP Force Expansions/Battle Pieces,Tower of Time,3301,8192
+SWAP Force Expansions/Battle Pieces,Fiery Forge,3301,8710
+SWAP Force Expansions/Battle Pieces,Arkeyan Crossbow,3302,8710
+SuperChargers,Fiesta,3400,16640
+SuperChargers,Frightful Fiesta,3400,17685
+SuperChargers,High Volt,3401,16640
+SuperChargers,High Volt (Patina),3401,16670
+SuperChargers,Splat,3402,16640
+SuperChargers,Power Blue Splat,3402,17666
+SuperChargers,Stormblade,3406,16640
+SuperChargers,Snow-Brite Stormblade,3406,16654
+SuperChargers,Smash Hit,3411,16640
+SuperChargers,Steel Plated Smash Hit,3411,17666
+SuperChargers,Spitfire,3412,16640
+SuperChargers,Dark Spitfire,3412,17666
+SuperChargers,Instant Spitfire,3412,17679
+SuperChargers,Hurricane Jet-Vac,3413,16640
+SuperChargers,Legendary Hurricane Jet-Vac,3413,17667
+SuperChargers,Double Dare Trigger Happy,3414,16640
+SuperChargers,Power Blue Double Dare Trigger Happy,3414,17666
+SuperChargers,Super Shot Stealth Elf,3415,16640
+SuperChargers,Dark Super Shot Stealth Elf,3415,17666
+SuperChargers,Instant Super Shot Stealth Elf,3415,17679
+SuperChargers,Shark Shooter Terrafin,3416,16640
+SuperChargers,Bone Bash Roller Brawl,3417,16640
+SuperChargers,Bone Bash Roller Brawl (Dark Bronze?),3417,16670
+SuperChargers,Legendary Bone Bash Roller Brawl,3417,17667
+SuperChargers,Big Bubble Pop Fizz,3420,16640
+SuperChargers,Birthday Bash Big Bubble Pop Fizz,3420,17678
+SuperChargers,Lava Lance Eruptor,3421,16640
+SuperChargers,Lava Lance Eruptor (Patina?),3421,16670
+SuperChargers,Deep Dive Gill Grunt,3422,16640
+SuperChargers,Turbo Charge Donkey Kong,3423,16640
+SuperChargers,Dark Turbo Charge Donkey Kong,3423,17666
+SuperChargers,Hammer Slam Bowser,3424,16640
+SuperChargers,Dark Hammer Slam Bowser,3424,17666
+SuperChargers,Dive-Clops,3425,16640
+SuperChargers,Missile-Tow Dive-Clops,3425,17678
+SuperChargers,Instant Dive-Clops,3425,17679
+SuperChargers,Astroblast,3426,16640
+SuperChargers,Legendary Astroblast,3426,17667
+SuperChargers,Nightfall,3427,16640
+SuperChargers,Thrillipede,3428,16640
+SuperChargers,Eggcited Thrillipede,3428,17677
+SuperChargers,Nightfall (Defective),3527,16640
+Villain Drivers/Vehicles,Chef Pepper Jack,3440,16384
+Villain Drivers/Vehicles,Stratosphere,3441,16384
+Villain Drivers/Vehicles,Cap'n Cluck,3442,16384
+Villain Drivers/Vehicles,Wolfgang,3443,16384
+Villain Drivers/Vehicles,Threatpack,3444,16384
+Villain Drivers/Vehicles,Hood Sickle,3445,16384
+Villain Drivers/Vehicles,Bad Juju,3446,16384
+Villain Drivers/Vehicles,Glumshanks,3450,16384
+Villain Drivers/Vehicles,Dragon Hunter,3451,16384
+Villain Drivers/Vehicles,Moneybone,3452,16384
+Villain Drivers/Vehicles,Chompy Mage,3453,16384
+Villain Drivers/Vehicles,Dr. Krankcase,3454,16384
+Villain Drivers/Vehicles,Pain-Yatta,3455,16384
+Villain Drivers/Vehicles,Broccoli Guy,3456,16384
+Villain Drivers/Vehicles,Mesmeralda,3460,16384
+Villain Drivers/Vehicles,Captain Frightbeard,3461,16384
+Villain Drivers/Vehicles,Golden Queen,3462,16384
+Villain Drivers/Vehicles,Spellslamzer,3463,16384
+Villain Drivers/Vehicles,Chill Bill,3464,16384
+Villain Drivers/Vehicles,The Gulper,3465,16384
+Villain Drivers/Vehicles,Noodles,3466,16384
+Villain Drivers/Vehicles,Kaos,3467,16384
+Villain Drivers/Vehicles,Toaster Bomber,3470,16384
+Villain Drivers/Vehicles,Storm Striker,3471,16384
+Villain Drivers/Vehicles,Sky Scrambler,3472,16384
+Villain Drivers/Vehicles,Sub Woofer,3473,16384
+Villain Drivers/Vehicles,Threatpack Vehicle,3474,16384
+Villain Drivers/Vehicles,Hood Sickle Vehicle,3475,16384
+Villain Drivers/Vehicles,Bad Juju Vehicle,3476,16384
+Villain Drivers/Vehicles,Steam Roller,3480,16384
+Villain Drivers/Vehicles,Scale Biter,3481,16384
+Villain Drivers/Vehicles,Spirit Dragster,3482,16384
+Villain Drivers/Vehicles,Chompy Buster,3483,16384
+Villain Drivers/Vehicles,Dr. Krankcase Vehicle,3484,16384
+Villain Drivers/Vehicles,Pain-Yatta Vehicle,3485,16384
+Villain Drivers/Vehicles,Broccoli Guy Vehicle,3486,16384
+Villain Drivers/Vehicles,Wave Singer,3490,16384
+Villain Drivers/Vehicles,The Lil' Phantom Tide,3491,16384
+Villain Drivers/Vehicles,Glitter Glider,3492,16384
+Villain Drivers/Vehicles,Rune Slider,3493,16384
+Villain Drivers/Vehicles,Chill Bill Vehicle,3494,16384
+Villain Drivers/Vehicles,The Gulper Vehicle,3495,16384
+Villain Drivers/Vehicles,Noodles Vehicle,3496,16384
+Villain Drivers/Vehicles,Doom Jet,3497,16384
+SuperChargers Trophies,Sky Trophy,3500,16384
+SuperChargers Trophies,Land Trophy,3501,16384
+SuperChargers Trophies,Sea Trophy,3502,16384
+SuperChargers Trophies,Kaos Trophy,3503,16384
+Skylanders 2016,Fusion,4500,20480
+Skylanders 2016,Synergy,4501,20480
+Skylanders 2016,Unity,4502,20480
+Skylanders 2016,BlueFalcon_Base,4503,20480
+SuperChargers Template Vehicles,Template Vehicle,4999,16384
+SuperChargers Template Vehicles,Template Land Vehicle,5999,16384
+SuperChargers Template Vehicles,Template Air Vehicle,6999,16384
+SuperChargers Template Vehicles,Template Sea Vehicle,7999,16384
+Trap Team DEBUG Characters,DEBUG Core,9990,12288
+Trap Team DEBUG Characters,DEBUG Giant,9991,12288
+Trap Team DEBUG Characters,DEBUG Ranger,9992,12288

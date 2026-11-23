@@ -1,0 +1,47 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <!-- WPF + WPF's OpenFolderDialog both require .NET 8 (LTS) on Windows -->
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <RootNamespace>Com.Skylanders.Kiosk</RootNamespace>
+    <AssemblyName>Kiosk</AssemblyName>
+    <!-- The modified hidapi.dll is x86-64 only, so build/run as x64. -->
+    <PlatformTarget>x64</PlatformTarget>
+    <Platforms>x64</Platforms>
+  </PropertyGroup>
+
+  <!-- No HidSharp / hid4java: we P/Invoke the user's modified native hidapi.dll
+       directly (see HidApi.cs). -->
+
+  <ItemGroup>
+    <!-- Java loaded this via getClass().getResourceAsStream("SkylanderIDs.txt"),
+         i.e. from the classpath/jar. An embedded resource is the closest analog. -->
+    <EmbeddedResource Include="Resources\SkylanderIDs.txt">
+      <LogicalName>SkylanderIDs.txt</LogicalName>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- Java read this from the working directory; copy it next to the .exe. -->
+    <None Include="KioskConfig.ini">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+
+    <!-- The user's MODIFIED native hidapi (win32-x86-64) extracted from hid4java.jar.
+         Copied next to the .exe so [DllImport("hidapi")] resolves it at runtime. -->
+    <None Include="hidapi.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Resources\OwnedSkylanders.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>
