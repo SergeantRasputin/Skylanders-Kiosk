@@ -146,10 +146,11 @@ namespace Com.Skylanders.Kiosk
 
             if (cfgItm != null)
             {
-                OpenFolderDialog chooser = new OpenFolderDialog();
-                chooser.Title = "Select Video Folder";
-
-                chooser.InitialDirectory = "c:";
+                OpenFolderDialog chooser = new()
+                {
+                    Title = "Select Video Folder",
+                    InitialDirectory = "c:"
+                };
 
                 bool? ok = chooser.ShowDialog(stage);
 

@@ -138,14 +138,7 @@ namespace Com.Skylanders.Kiosk
             foreach (SkylanderEntry se in skylanders)
             {
                 FileInfo selectedFile = new FileInfo(directory + "\\" + se.characterId + "-" + se.variantId + ".mp4");
-                if (!selectedFile.Exists)
-                {
-                    se.videoStatus = SkylanderEntry.VideoFileStatus.MISSING;
-                }
-                else
-                {
-                    se.videoStatus = SkylanderEntry.VideoFileStatus.PRESENT;
-                }
+                se.videoStatus = !selectedFile.Exists ? SkylanderEntry.VideoFileStatus.MISSING : SkylanderEntry.VideoFileStatus.PRESENT;
             }
         }
     }
