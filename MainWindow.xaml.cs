@@ -152,16 +152,16 @@ namespace Com.Skylanders.Kiosk
                     mediaView.Position = TimeSpan.Zero;
                 }
             }
-            else if (keyEvent.Key == Key.C)
+            else if (keyEvent.Key == Key.C) //allows you to change the video directory
             {
                 config.SelectConfigVideoFolder(this);
                 skylanderNameDatabase.CheckForVideoFiles(config.GetConfigItemString(KioskConfig.videoDirectoryConfig).GetValue());
             }
-            else if (keyEvent.Key == Key.F)
+            else if (keyEvent.Key == Key.F) // toggles full screen
             {
                 SetFullScreen(!IsFullScreen());
             }
-            else if (keyEvent.Key == Key.Add)
+            else if (keyEvent.Key == Key.Add) //raises the volume
             {
                 KioskConfig.ConfigValueDouble cfgItm = config.GetConfigItemDouble(KioskConfig.mediaVolumeConfig);
                 if (cfgItm != null)
@@ -170,7 +170,7 @@ namespace Com.Skylanders.Kiosk
                     mediaView.Volume = cfgItm.GetValue();
                 }
             }
-            else if (keyEvent.Key == Key.Subtract)
+            else if (keyEvent.Key == Key.Subtract) //loweres the volume
             {
                 KioskConfig.ConfigValueDouble cfgItm = config.GetConfigItemDouble(KioskConfig.mediaVolumeConfig);
                 if (cfgItm != null)
@@ -179,12 +179,12 @@ namespace Com.Skylanders.Kiosk
                     mediaView.Volume = cfgItm.GetValue();
                 }
             }
-            else if (keyEvent.Key == Key.Tab)
+            else if (keyEvent.Key == Key.Tab) // toggles the list of figure currently on the portal
             {
                 displaySkylanderNames = !displaySkylanderNames;
                 keyEvent.Handled = true; 
             }
-            else if (keyEvent.Key == Key.Down)
+            else if (keyEvent.Key == Key.Down) // goes down the list
             {
                 int index = mySkylanderPortal.skylandersOnPortal.IndexOf(currentSkylanderPlayingMedia);
                 if (index != -1)
@@ -194,7 +194,7 @@ namespace Com.Skylanders.Kiosk
                     UpdateDisplaySkylander(true);
                 }
             }
-            else if (keyEvent.Key == Key.Up)
+            else if (keyEvent.Key == Key.Up) //goes up the list
             {
                 int index = mySkylanderPortal.skylandersOnPortal.IndexOf(currentSkylanderPlayingMedia);
                 if (index != -1)
@@ -207,6 +207,7 @@ namespace Com.Skylanders.Kiosk
                     UpdateDisplaySkylander(false);
                 }
             }
+            
         }
 
         void UpdateDisplayNames()
@@ -490,6 +491,12 @@ namespace Com.Skylanders.Kiosk
                 WindowState = WindowState.Normal;
                 ResizeMode = ResizeMode.NoResize;
             }
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            statDisplay statScreen = new statDisplay(mySkylanderPortal);
+            statScreen.Show();
         }
     }
 }
