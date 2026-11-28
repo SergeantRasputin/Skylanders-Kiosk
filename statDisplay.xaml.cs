@@ -35,8 +35,7 @@ namespace Com.Skylanders.Kiosk
         {
             foreach (var skylander in mySkylanderPortal.skylandersOnPortal)
             {
-                Stats.Text = "";
-                Stats.Text = "Name: " + skylander.GetNickname() + Environment.NewLine +
+                Stats.Text = "\nNickname: " + skylander.GetNickname() + Environment.NewLine +
                              "Gold: " + skylander.GetMoney() + Environment.NewLine +
                              "Experience: " + skylander.GetExperience()+ Environment.NewLine +
                              "Time on the portal: " + skylander.GetCumulativeTime() + Environment.NewLine +

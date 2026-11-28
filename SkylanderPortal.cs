@@ -386,9 +386,8 @@ namespace Com.Skylanders.Kiosk
         public int UpdateSkylandersOnPortal()
         {
             int changes = lastReadSkylandersRequest ^ lastStatusRequest;
-            byte[] dataBlocks = new byte[]
-            {
-                0, 1, 0x24, 0x8, 0x9, 0x25, 0x11, 0x2D, 0xA, 0x26, 0xC, 
+            int[] dataBlocks = {
+                0, 1, 0x24, 0x8, 0x9, 0x25, 0x11, 0x2D, 0xA, 0x26, 0xC,
                 0x28, 0xD, 0x29, 0xE, 0x2A, 0x12, 0x2E, 0x14, 0x30
             };
 
@@ -419,50 +418,50 @@ namespace Com.Skylanders.Kiosk
                         //reading a figure
                         SkylanderOnPortal skylander = new SkylanderOnPortal();
                         //the wall (what blocks need to be read)
-                        //for (int j = 0; j < dataBlocks.Length; j++)
-                        //{
-                        //    ReadSkylander(i, j, skylander.dataBlocks[j]);
-                        //    Thread.Sleep(50);
-                        //}
-                        ReadSkylander(i, 0, skylander.dataBlocks[0]);
-                        Thread.Sleep(50);
-                        ReadSkylander(i, 1, skylander.dataBlocks[1]);
-                        Thread.Sleep(50);
-                        ReadSkylander(i, 0x24, skylander.dataBlocks[0x24]);
-                        Thread.Sleep(50);
-                        ReadSkylander(i, 0x8, skylander.dataBlocks[0x8]);
-                        Thread.Sleep(50);
-                        ReadSkylander(i, 0x9, skylander.dataBlocks[0x9]);
-                        Thread.Sleep(50);
-                        ReadSkylander(i, 0x25, skylander.dataBlocks[0x25]);
-                        Thread.Sleep(50);
-                        ReadSkylander(i, 0x11, skylander.dataBlocks[0x11]);
-                        Thread.Sleep(50);
-                        ReadSkylander(i, 0x2D, skylander.dataBlocks[0x2D]);
-                        Thread.Sleep(50);
-                        ReadSkylander(i, 0xA, skylander.dataBlocks[0xA]);
-                        Thread.Sleep(50);
-                        ReadSkylander(i, 0x26, skylander.dataBlocks[0x26]);
-                        Thread.Sleep(50);
-                        ReadSkylander(i, 0xC, skylander.dataBlocks[0xC]);
-                        Thread.Sleep(50);
-                        ReadSkylander(i, 0x28, skylander.dataBlocks[0x28]);
-                        Thread.Sleep(50);
-                        ReadSkylander(i, 0xD, skylander.dataBlocks[0xD]);
-                        Thread.Sleep(50);
-                        ReadSkylander(i, 0x29, skylander.dataBlocks[0x29]);
-                        Thread.Sleep(50);
-                        ReadSkylander(i, 0xE, skylander.dataBlocks[0xE]);
-                        Thread.Sleep(50);
-                        ReadSkylander(i, 0x2A, skylander.dataBlocks[0x2A]);
-                        Thread.Sleep(50);
-                        ReadSkylander(i, 0x12, skylander.dataBlocks[0x12]);
-                        Thread.Sleep(50);
-                        ReadSkylander(i, 0x2E, skylander.dataBlocks[0x2E]);
-                        Thread.Sleep(50);
-                        ReadSkylander(i, 0x14, skylander.dataBlocks[0x14]);
-                        Thread.Sleep(50);
-                        ReadSkylander(i, 0x30, skylander.dataBlocks[0x30]);
+                        for (int j = 0; j < dataBlocks.Length; j++)
+                        {
+                            ReadSkylander(i, j, skylander.dataBlocks[j]);
+                            Thread.Sleep(50);
+                        }
+                        //ReadSkylander(i, 0, skylander.dataBlocks[0]);
+                        //Thread.Sleep(50);
+                        //ReadSkylander(i, 1, skylander.dataBlocks[1]);
+                        //Thread.Sleep(50);
+                        //ReadSkylander(i, 0x24, skylander.dataBlocks[0x24]);
+                        //Thread.Sleep(50);
+                        //ReadSkylander(i, 0x8, skylander.dataBlocks[0x8]);
+                        //Thread.Sleep(50);
+                        //ReadSkylander(i, 0x9, skylander.dataBlocks[0x9]);
+                        //Thread.Sleep(50);
+                        //ReadSkylander(i, 0x25, skylander.dataBlocks[0x25]);
+                        //Thread.Sleep(50);
+                        //ReadSkylander(i, 0x11, skylander.dataBlocks[0x11]);
+                        //Thread.Sleep(50);
+                        //ReadSkylander(i, 0x2D, skylander.dataBlocks[0x2D]);
+                        //Thread.Sleep(50);
+                        //ReadSkylander(i, 0xA, skylander.dataBlocks[0xA]);
+                        //Thread.Sleep(50);
+                        //ReadSkylander(i, 0x26, skylander.dataBlocks[0x26]);
+                        //Thread.Sleep(50);
+                        //ReadSkylander(i, 0xC, skylander.dataBlocks[0xC]);
+                        //Thread.Sleep(50);
+                        //ReadSkylander(i, 0x28, skylander.dataBlocks[0x28]);
+                        //Thread.Sleep(50);
+                        //ReadSkylander(i, 0xD, skylander.dataBlocks[0xD]);
+                        //Thread.Sleep(50);
+                        //ReadSkylander(i, 0x29, skylander.dataBlocks[0x29]);
+                        //Thread.Sleep(50);
+                        //ReadSkylander(i, 0xE, skylander.dataBlocks[0xE]);
+                        //Thread.Sleep(50);
+                        //ReadSkylander(i, 0x2A, skylander.dataBlocks[0x2A]);
+                        //Thread.Sleep(50);
+                        //ReadSkylander(i, 0x12, skylander.dataBlocks[0x12]);
+                        //Thread.Sleep(50);
+                        //ReadSkylander(i, 0x2E, skylander.dataBlocks[0x2E]);
+                        //Thread.Sleep(50);
+                        //ReadSkylander(i, 0x14, skylander.dataBlocks[0x14]);
+                        //Thread.Sleep(50);
+                        //ReadSkylander(i, 0x30, skylander.dataBlocks[0x30]);
 
 
                         int money = skylander.GetMoney();
